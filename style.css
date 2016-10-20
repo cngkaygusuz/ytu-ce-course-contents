@@ -1,0 +1,7 @@
+.entry {
+    page-break-after: always;
+}
+
+.entry > p:nth-child(2) {
+    font-style: italic;
+}
