@@ -5,3 +5,8 @@
 .entry > p:nth-child(2) {
     font-style: italic;
 }
+
+#cover {
+    text-align: center;
+    page-break-after: always;
+}
